@@ -1,0 +1,46 @@
+{
+  "extends": "eslint:recommended",
+  "env":{
+    "node":true,// 支持 node语法
+    "es6":true, // 支持 es6 语法
+    "browser": true,
+    "commonjs": true,
+    "amd": true
+  },
+  "rules": {
+    //不需要;
+    "no-console":"off",
+
+    //错误
+    "no-dupe-args": 2,//参数不能重复
+    "no-dupe-keys": 2,//对象属性不能重复
+    "no-constant-condition": 2, // 禁止在条件中使用常量表达式 if(true) if(1)
+    "no-duplicate-case": 2, // switch中的case标签不能重复
+    "no-empty-character-class": 2, // 正则表达式中的[]内容不能为空
+    "no-invalid-regexp": 2, // 禁止无效的正则表达式
+    "no-func-assign": 2, // 禁止重复的函数声明
+    "no-unreachable": 2, //不可能执行到的代码
+    "no-sparse-arrays": 2,//数组中多出逗号
+    "no-shadow-restricted-names": 2,//关键词与命名冲突
+    "no-undef": 2,//变量未定义
+    "no-unused-vars":2,//变量定义后未使用
+    "no-native-reassign": 2,//禁止覆盖原生对象
+
+    //警告
+    "no-extra-semi": 1,  //不能有多余的分号
+    "no-extra-parens": 1,//不能有多余的括号
+    "no-empty": 1,//块语句中的内容不能为空
+    "no-use-before-define": [1, "nofunc"], //使用前不能未定义
+
+    //代码风格
+    "no-else-return": 1, // 如果if语句里面有return,后面不能跟else语句
+    "no-void": 2, // 禁用void操作符
+    "no-with": 2, // 禁用with
+    "curly": 1, // 必须使用 if(){} 中的{}
+    "accessor-pairs": 2,//object getter/setter方法需要成对出现
+    "dot-location": [2, "property"],//换行调用对象方法  点操作符应写在行首
+    "camelcase": 2,//强制驼峰法命名
+    "indent": [2, 4],//缩进风格
+     "quotes": [2,"single"]
+  }
+}
