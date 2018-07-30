@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc8dba1-6824-4681-a886-4385bfa8e4da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/new_01.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/new_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/new_01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/old_01.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/old_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/old_01.js" afterDir="false" />
-    </list>
+    <list default="true" id="3bc8dba1-6824-4681-a886-4385bfa8e4da" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -109,7 +99,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
+    <option name="x" value="19" />
     <option name="y" value="23" />
     <option name="width" value="1164" />
     <option name="height" value="1027" />
@@ -187,15 +177,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532922506261</updated>
-      <workItem from="1532922509028" duration="9193000" />
+      <workItem from="1532922509028" duration="9841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9193000" />
+    <option name="totallyTimeSpent" value="9841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="23" width="1164" height="1027" extended-state="0" />
+    <frame x="19" y="23" width="1164" height="1027" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18110237" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -204,7 +194,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.14086021" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.5032258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
