@@ -8,6 +8,8 @@ function fun() {
     console.log(aa);
     return;
 
+
+
     console.log(aa);
 }
 
