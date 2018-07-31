@@ -1,7 +1,5 @@
 #!/bin/sh
-
 STAGED_FILES=$(git diff --cached --name-only  grep ".js$")
-
 if [[ "$STAGED_FILES" = "" ]]; then
   exit 0
 fi

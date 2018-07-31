@@ -6,3 +6,12 @@ if (foo) {
 } else {
     bar = 2;
 }
+
+function fun() {
+    var aa=12;
+    console.log(aa);
+    return;
+    console.log(aa);
+}
+
+fun();

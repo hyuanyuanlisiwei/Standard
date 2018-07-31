@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hyuanyuanlisiwei/Standard/issues"
   },
-  "homepage": "https://github.com/hyuanyuanlisiwei/Standard#readme"
+  "homepage": "https://github.com/hyuanyuanlisiwei/Standard#readme",
+  "dependencies": {
+    "npm": "^6.2.0"
+  }
 }
