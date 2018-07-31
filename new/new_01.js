@@ -7,6 +7,7 @@ function fun() {
     var aa=12;
     console.log(aa);
     return;
+
     console.log(aa);
 }
 
