@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc8dba1-6824-4681-a886-4385bfa8e4da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hooks/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.hooks/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new/new_01.js" beforeDir="false" afterPath="$PROJECT_DIR$/new/new_01.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="new_01.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new/new_01.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="146">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/.hooks/pre-commit">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -74,8 +74,8 @@
         <option value="$PROJECT_DIR$/old/old_01.js" />
         <option value="$PROJECT_DIR$/.eslintignore" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/.hooks/pre-commit" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.hooks/pre-commit" />
         <option value="$PROJECT_DIR$/new/new_01.js" />
       </list>
     </option>
@@ -98,8 +98,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
-    <option name="y" value="23" />
+    <option name="x" value="223" />
+    <option name="y" value="85" />
     <option name="width" value="1502" />
     <option name="height" value="1027" />
   </component>
@@ -188,15 +188,15 @@
       <option name="presentableId" value="Default" />
       <updated>1532922506261</updated>
       <workItem from="1532922509028" duration="10434000" />
-      <workItem from="1533001412282" duration="4513000" />
+      <workItem from="1533001412282" duration="4789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14947000" />
+    <option name="totallyTimeSpent" value="15223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="23" width="1502" height="1027" extended-state="0" />
+    <frame x="223" y="85" width="1502" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12761648" />
@@ -334,14 +334,14 @@
     <entry file="file://$PROJECT_DIR$/.hooks/pre-commit">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new/new_01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="146">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
