@@ -7,10 +7,9 @@ function fun() {
     var aa=12;
     console.log(aa);
     return;
-
-
     console.log(aa);
 }
 
+console.log(obj,bar,foo);
 console.log(obj,bar,foo);
 fun();
