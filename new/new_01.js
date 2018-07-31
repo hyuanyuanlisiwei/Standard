@@ -9,6 +9,7 @@ function fun() {
     return;
     console.log(aa);
 }
+
 console.log(obj,bar,foo);
 console.log(obj,bar,foo);
 fun();

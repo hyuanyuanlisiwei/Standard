@@ -8,8 +8,7 @@
     "amd": true
   },
   "rules": {
-    //不需要;
-    "no-console":"off",
+    "no-console":"on",
 
     //错误
     "no-dupe-args": 2,//参数不能重复
