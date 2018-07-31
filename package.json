@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cp .hooks/* .git/hooks/"
+    "postinstall": "cp .hooks/* .git/hooks/ && chmod +x .git/hooks/pre-commit"
   },
   "repository": {
     "type": "git",
