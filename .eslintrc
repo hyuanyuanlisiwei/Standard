@@ -28,7 +28,7 @@
     "space-before-function-paren":1,//函数声明时括号与函数之间加空格
     "brace-style":1,//else 关键字与花括号保持在同一行
     "no-multiple-empty-lines":1,//不允许有连续多行空行
-    "key-spacing":1, //键值对当中冒号与值之间保留空白
+    "key-spacing":[1,{"beforeColon":true,"afterColon":true}], //键值对当中冒号前后留一个空格之间保留空白
 
     "no-var":2,//要求使用 let 或 const 而不是 var
     "prefer-arrow-callback":2,//要求回调函数使用箭头函数
