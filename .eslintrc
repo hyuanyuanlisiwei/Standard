@@ -18,7 +18,7 @@
 
     "camelcase": 2,//强制驼峰法命名
     "no-use-before-define":2,
-    "accessor-pairs": 2,//object getter/setter方法需要成对出现
+//    "accessor-pairs": 2,//object getter/setter方法需要成对出现
     "default-case":2,//switch中必须有defautl分支.
 
     "indent": [2, 4],//缩进风格,  4个空格.
@@ -30,8 +30,19 @@
     "no-multiple-empty-lines":1,//不允许有连续多行空行
     "key-spacing":[1,{"beforeColon":true,"afterColon":true}], //键值对当中冒号前后留一个空格之间保留空白
 
-    "no-var":2,//要求使用 let 或 const 而不是 var
+//    "no-var":2,//要求使用 let 或 const 而不是 var
     "prefer-arrow-callback":2,//要求回调函数使用箭头函数
-    "no-duplicate-imports":2 //禁止重复模块导入
+    "no-duplicate-imports":2, //禁止重复模块导入
+
+    "no-alert":0,//禁用 alert、confirm 和 prompt
+    "for-direction":2,//强制 “for” 循环中更新子句的计数器朝着正确的方向移动
+    "block-scoped-var":2,//强制把变量的使用限制在其定义的作用域范围内
+    "no-empty-function":2,//禁止出现空函数
+    "no-eval":2,//禁用 eval()
+//    "no-magic-numbers":2,//禁用魔术数字. 魔术数字是在代码中多次出现的没有明确含义的数字。它最好由命名常量取代。
+    "no-undef-init":2,//禁止将变量初始化为 undefined
+    "no-multi-assign":2,//禁止连续赋值
+    "no-nested-ternary":2,//禁用嵌套的三元表达式
+    "arrow-body-style":2 //要求箭头函数体使用大括号
   }
 }

@@ -7,8 +7,8 @@ console.warn(arr);
 let obj={a : 1,b : 2};
 
 function fun () {
-    let aa=12;
-    console.warn(aa);
+    let now=12;
+    console.warn(now);
     return;
 }
 
